@@ -73,15 +73,15 @@
 <div align="center">
 
 <a href="https://github.com/pavanpadavala2005">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=pavanpadavala2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pavan's GitHub statistics" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=pavanpadavala2005&show_icons=true&theme=night&hide_border=true&rank_icon=github" alt="Pavan's GitHub statistics" />
 </a>
 <a href="https://github.com/pavanpadavala2005?tab=repositories">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pavanpadavala2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Pavan's most used languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pavanpadavala2005&layout=compact&langs_count=8&theme=tokyo&hide_border=true" alt="Pavan's most used languages" />
 </a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=pavanpadavala2005&theme=tokyonight&hide_border=true" alt="Pavan's GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=pavanpadavala2005&theme=tokyo&hide_border=true" alt="Pavan's GitHub contribution streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavanpadavala2005&theme=tokyo-night&hide_border=true&area=true" alt="Pavan's recent GitHub contribution graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavanpadavala2005&theme=tokyo-light&hide_border=true&area=true" alt="Pavan's recent GitHub contribution graph" />
 
 <sub>Language statistics are based on code in public repositories and do not represent proficiency.</sub>
 
