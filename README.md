@@ -1,90 +1,124 @@
-<!-- ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif) -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:0969DA,100:2EA44F&height=230&section=header&text=Pavan%20Kumar%20Padavala&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=&descAlignY=57&descSize=18)
 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+clean+and+responsive+web+experiences;Turning+ideas+into+useful+applications;Learning%2C+building%2C+and+improving+every+day)](https://github.com/DenverCoder1/readme-typing-svg) -->
 
-<table align="center">
+[![Profile Views](https://komarev.com/ghpvc/?username=pavanpadavala2005&label=Profile%20Views&color=0969da&style=for-the-badge)](https://github.com/pavanpadavala2005)
+[![GitHub Followers](https://img.shields.io/github/followers/pavanpadavala2005?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/pavanpadavala2005?tab=followers)
+
+</div>
+
+## 👨‍💻 About Me
+
+<table>
   <tr>
-    <td valign="center">
-
-  - 🌱 I’m currently learning <b>Backend</b>  
-  
-  - 💬 Ask me about <b>FrontEnd</b>  
-  
-  - 📫 How to reach me <b>pavankumarpadavala123@gmail.com</b>
-
-
-  </td>
-    <td align="center">
-      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <td width="60%" valign="top">
+      <p>
+        Hi, I'm <b>Pavan</b> — A passionate developer And Mentor who enjoys building new things
+        and creating clea, and user-friendly digital experiences.
+      </p>
+      <p>
+        🌱 Currently expanding my skills in <b>backend development</b><br>
+        🎯 Working toward building complete, reliable full-stack applications<br>
+        🤝 Open to learning, collaboration, and meaningful development projects<br>
+        📫 Reach me at <a href="mailto:pavankumarpadavala123@gmail.com"><b>pavankumarpadavala123@gmail.com</b></a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img alt="Developer coding animation" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
     </td>
   </tr>
 </table>
 
----
+## 🚀 Current Focus
 
-# Contact & Socials
-<p align="center  "> 
+| Area | Current Direction |
+| :--- | :--- |
+| ⚙️ Backend | Learning server-side development and application logic |
+| 🔗 Full Stack | Connecting interfaces, APIs, and databases |
+| 🧩 Problem Solving | Strengthening programming fundamentals through practice |
 
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin: 0 20px;" />
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 20px;" />
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin: 0 20px;" />
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" alt="Java, Python, JavaScript, HTML and CSS" />
 </p>
 
+### Frameworks & Libraries
 
-
-
-# Tech Stack:
-<h3 align="left">🧠 Languages</h3>
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-<h3 align="left">⚙️ Frameworks & Libraries</h3>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-<h3 align="left">🗄️ Databases</h3>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![mongoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-<h3 align="left">🧰 Tools & Platforms</h3>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-
-<h3 align="left">🎨 Design & Creativity</h3>
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-
-<h3 align="center">🌐 Portfolio</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge">
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark" alt="React, Node.js and Tailwind CSS" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
+### Databases
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavanpadavala2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pavanpadavala2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpadavala2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
 </p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Git, GitHub, Visual Studio Code and npm" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<a href="https://github.com/pavanpadavala2005">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=pavanpadavala2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pavan's GitHub statistics" />
+</a>
+<a href="https://github.com/pavanpadavala2005?tab=repositories">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pavanpadavala2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Pavan's most used languages" />
+</a>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=pavanpadavala2005&theme=tokyonight&hide_border=true" alt="Pavan's GitHub contribution streak" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavanpadavala2005&theme=tokyo-night&hide_border=true&area=true" alt="Pavan's recent GitHub contribution graph" />
+
+<sub>Language statistics are based on code in public repositories and do not represent proficiency.</sub>
+
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-pavanpadavala2005-181717?style=for-the-badge&logo=github)](https://github.com/pavanpadavala2005)
+[![Email](https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarpadavala123@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20Padavala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-padavala/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](http://pavan-kumar-padavala.vercel.app/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_PROFILE_URL)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_PROFILE_URL)
+[![Naukri Code360](https://img.shields.io/badge/Naukri%20Code360-Profile-DD1F26?style=for-the-badge&logoColor=white)](YOUR_CODE360_PROFILE_URL)
+
+<!-- 
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](YOUR_HACKERRANK_PROFILE_URL)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_PROFILE_URL)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](YOUR_HACKEREARTH_PROFILE_URL)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_PROFILE_URL)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-Profile-2C3E50?style=for-the-badge&logoColor=white)](YOUR_INTERVIEWBIT_PROFILE_URL)
+[![Naukri](https://img.shields.io/badge/Naukri-Profile-4A90E2?style=for-the-badge&logoColor=white)](YOUR_NAUKRI_PROFILE_URL)
+[![Unstop](https://img.shields.io/badge/Unstop-Profile-0057D9?style=for-the-badge&logoColor=white)](YOUR_UNSTOP_PROFILE_URL) -->
+
+
+
+
+
+
+
+<!-- ### 💡 "Keep learning. Keep building. Let the work speak." -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,50:0969DA,100:6E40C9&height=120&section=footer)
+
+</div>
