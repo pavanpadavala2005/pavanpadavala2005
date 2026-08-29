@@ -82,13 +82,21 @@
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=pavanpadavala2005&theme=tokyo&hide_border=true" alt="Pavan's GitHub contribution streak" />
-
+<!-- <img width="70%" src="https://streak-stats.demolab.com/?user=pavanpadavala2005&theme=tokyo&hide_border=true" alt="Pavan's GitHub contribution streak" /> -->
+<img 
+  width="70%" 
+  src="https://streak-stats.demolab.com/?user=pavanpadavala2005&theme=cotton_candy&hide_border=true" 
+  alt="Pavan's GitHub contribution streak" 
+/>
 <br/><br/>
 
 <div align="center">
 
-[![Pavan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanpadavala2005&theme=dracula&hide_border=true&area=true)](https://github.com/pavanpadavala2005)
+<img 
+  width="70%" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=pavanpadavala2005&custom_title=Pavan's%20GitHub%20Activity%20Graph&hide_border=true&theme=github-compact" 
+  alt="Pavan's GitHub activity graph" 
+/>
 
 </div>
 
